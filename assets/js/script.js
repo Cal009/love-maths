@@ -42,8 +42,13 @@ function checkAnswer(){
 
 }
 
-function calculateCorrectAnswer(){
 
+/**
+ * Gets the operands (the Numbers) and the operator (plus, minus etc)
+ * directly from the dom, and returns the correct answer.
+ */
+function calculateCorrectAnswer(){
+    
 }
 
 function incrementScore(){
